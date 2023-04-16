@@ -75,7 +75,7 @@ const App = () => {
               item={progressItem}
               removeFunction={clickRemoveButtonHandler}
               reviseFunction={clickReviseButtonHandler}
-              buttonTitle = {'변경'}
+              buttonTitle = {'완료'}
               />))
             }
         </div>
