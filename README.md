@@ -24,8 +24,7 @@ Requirement : 과제에 요구되는 사항이에요.
 ### 따로 구분한 컴포넌트 : 추가하기 버튼, 추가했을 때 생기는 제목과 내용이 담긴 카드들
 <br>
 
-##예시영상
-->
+예시영상
 
 https://user-images.githubusercontent.com/128359222/232403554-58f8dea3-d940-4fe8-8f70-4dbf6d119ec5.mp4
 
